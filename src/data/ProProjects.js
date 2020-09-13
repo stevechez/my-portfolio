@@ -1,0 +1,32 @@
+export default [
+  {
+    id: 9,
+    title: "first job",
+    icon: "",
+    description: "content here",
+    githubPath: null,
+    demoPath: null,
+    year: "",
+    techUsed: "React",
+  },
+  {
+    id: 8,
+    title: "",
+    icon: "",
+    description: "",
+    githubPath: null,
+    demoPath: null,
+    year: "",
+    techUsed: "",
+  },
+  {
+    id: 7,
+    title: "",
+    icon: "",
+    description: "",
+    githubPath: null,
+    demoPath: null,
+    year: "",
+    techUsed: "",
+  },
+];
