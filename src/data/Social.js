@@ -14,6 +14,6 @@ export default [
     title: "LinkedIn",
     icon: linkedin,
     linkTo: true,
-    path: "https://www.linkedin.com/in/steve",
+    path: "https://www.linkedin.com/in/stevemaciaszek",
   },
 ];
