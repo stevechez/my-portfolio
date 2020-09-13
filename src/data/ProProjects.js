@@ -1,13 +1,13 @@
 export default [
   {
-    id: 9,
-    title: "first job",
+    id: 1,
+    title: "Silicon Valley Bank",
     icon: "",
-    description: "content here",
+    description: "Developed rich",
     githubPath: null,
     demoPath: null,
-    year: "",
-    techUsed: "React",
+    year: "01/20 - present",
+    techUsed: "React, Hooks, Typescript, Jest/Enzyme, Loopback, Cordova",
   },
   {
     id: 8,

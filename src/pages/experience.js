@@ -32,8 +32,9 @@ const Experience = () => (
                 <StepperHead>
                   <div>
                     <h3>{item.designation}</h3>
-                    <a href={item.companyLink} target="_blank"></a>
+                    <p>{item.name}</p>
                     <p>{item.dated}</p>
+                    <a href={item.companyLink} target="_blank"></a>
                   </div>
                   <LogoLink href="">
                     <img src="" alt="company" width="175px" />

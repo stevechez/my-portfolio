@@ -1,18 +1,14 @@
 export default [
   {
     id: 1,
-    name: "",
+    name: "Cycling",
   },
   {
     id: 2,
-    name: "",
+    name: "Triathlon",
   },
   {
     id: 3,
-    name: "",
-  },
-  {
-    id: 4,
-    name: "",
+    name: "Playing with my dog",
   },
 ];

@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Experience",
-    description: "description here",
+    description: "web for druva",
     path: "/experience",
   },
 ];

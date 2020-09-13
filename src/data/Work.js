@@ -1,12 +1,12 @@
 export default [
   {
     id: 5,
-    name: "first company",
-    designation: "",
-    dated: "",
-    logo: "",
+    name: "Silicon Valley Bank",
+    designation: "UI Developer",
+    dated: "01/20 - present",
+    logo: "logo",
     companyLink: "",
-    description: "<p>description here</p>",
+    description: "React, Hooks, Typescript, Jest/Enzyme, Loopback, Cordova",
   },
   {
     id: 5,
