@@ -6,13 +6,14 @@ import { siteMeta } from "../data/Seo";
 import Helmet from "react-helmet";
 import favicon from "../assets/images/favicon.ico";
 import { Location } from "@reach/router";
+import blueBg from "../assets/images/blue-bg.png";
 
 import "../layouts/index.css";
 import Header from "./Header/header";
 import Footer from "./Footer/footer";
 
 const Wrapper = styled.div`
-  background-color: blue;
+  background-image: url(${blueBg});
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
