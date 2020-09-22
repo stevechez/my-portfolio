@@ -1,11 +1,11 @@
 export const aboutWebsite = {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "url": "http://rashmiap.me",
-    "name": "Rashmi AP | Front-end Engineer, Zoojoobe",
+    "url": "http://localhost:8000",
+    "name": "Steve Maciaszek | Software Developer",
     "author": {
         "@type": "Person",
-        "name": "Rashmi AP"
+        "name": "Steve"
     }
 }
 export const siteMeta = {
