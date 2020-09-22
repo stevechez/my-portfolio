@@ -5,7 +5,7 @@ import {
   UserDescription,
   DownloadButton,
 } from "../styles/indexStyle.js";
-import StevePic from "../assets/images/steve-photo.jpeg";
+import StevePic from "../assets/images/steve-photo2.jpeg";
 import Layout from "../components/layout";
 
 const IndexPage = () => {
@@ -22,7 +22,7 @@ const IndexPage = () => {
               Download Resume
             </DownloadButton>
           </div>
-          <img src={StevePic} alt="steve photo" />
+          <img src={StevePic} alt="Steve's Profiile Photo" />
         </UserDescription>
       </UserWrapper>
     </Layout>

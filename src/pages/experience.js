@@ -35,6 +35,7 @@ const Experience = () => (
                     <a href={item.companyLink} target="_blank"></a>
                     <span>{item.name}</span>
                     <p>{item.dated}</p>
+                    <a href={item.companyLink} target="_blank"></a>
                   </div>
 
                   <LogoLink href="">

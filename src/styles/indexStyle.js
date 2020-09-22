@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from "styled-components";
 
 export const UserWrapper = styled.div`
   margin: 10% auto;
@@ -7,7 +7,7 @@ export const UserTitle = styled.h1`
   font-size: 2.8em;
   font-weight: bold;
   color: #ffffff;
-  span{
+  span {
     color: #7fa1e8;
   }
   @media (max-width: 700px) {
@@ -19,22 +19,22 @@ export const UserDescription = styled.div`
   align-items: flex-start;
   justify-content: space-evenly;
   margin-bottom: 10%;
-  p{
+  p {
     color: #ffffff;
     max-width: 90%;
     font-weight: 300;
     font-size: 26px;
     line-height: 1.3;
   }
-  img{
+  img {
     max-width: 50%;
   }
   @media (max-width: 700px) {
     flex-direction: column-reverse;
-    img{
+    img {
       max-width: 100%;
     }
-    p{
+    p {
       max-width: 100%;
       font-size: 19px;
     }
@@ -52,17 +52,17 @@ export const DownloadButton = styled.a`
   margin-top: 30px;
   color: #ffffff;
   cursor: pointer;
-  :hover{
+  :hover {
     color: #7fa1e8;
   }
   @media (max-width: 700px) {
     width: 100%;
   }
-`
+`;
 export const UserTopic = styled.div`
   display: flex;
   justify-content: center;
   @media (max-width: 700px) {
     flex-direction: column;
   }
-`
+`;
