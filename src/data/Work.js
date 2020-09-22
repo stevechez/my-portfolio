@@ -1,6 +1,6 @@
 
 import svb from "../assets/images/svb.png";
-import ehealth from "../assets/images/ehealth-logo.png";
+import ehealth from "../assets/images/eHealth-logo.png";
 import imvu from "../assets/images/imvu-logo.png";
 import uptake from "../assets/images/uptake-logo.png";
 import apple from "../assets/images/apple-logo.jpg";
