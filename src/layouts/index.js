@@ -8,7 +8,7 @@ import "./index.css";
 import { siteMeta } from "../data/Seo";
 
 const Wrapper = styled.div`
-  background-color: yellow;
+  background-color: blue;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;

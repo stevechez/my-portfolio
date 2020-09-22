@@ -13,11 +13,7 @@ import Header from "./Header/header";
 import Footer from "./Footer/footer";
 
 const Wrapper = styled.div`
-<<<<<<< HEAD
   background-color: #32348f;
-=======
-  background-image: url(${blueBg});
->>>>>>> 12630578dfec331da9fe2a5cd309fe0a243bfa0a
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
