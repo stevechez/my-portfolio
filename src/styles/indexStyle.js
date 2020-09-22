@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const UserWrapper = styled.div`
-  margin: 10% auto;
+  margin: 7% auto;
 `;
 export const UserTitle = styled.h1`
   font-size: 2.8em;
@@ -23,7 +23,7 @@ export const UserDescription = styled.div`
     color: #ffffff;
     max-width: 90%;
     font-weight: 300;
-    font-size: 26px;
+    font-size: 22px;
     line-height: 1.3;
   }
   img {
@@ -49,11 +49,12 @@ export const DownloadButton = styled.a`
   align-items: center;
   justify-content: CENTER;
   text-decoration: none;
-  margin-top: 30px;
+  border-radius: 7px;
+  border: 1px solid #fff;
   color: #ffffff;
   cursor: pointer;
   :hover {
-    color: #7fa1e8;
+    color: yellow;
   }
   @media (max-width: 700px) {
     width: 100%;

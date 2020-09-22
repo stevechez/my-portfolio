@@ -20,7 +20,7 @@ export default [
   },
   {
     id: 2,
-    name: "",
+    name: "various companies",
     designation: "Senior Developer",
     dated: "01/2015 - present",
     logo: developer,

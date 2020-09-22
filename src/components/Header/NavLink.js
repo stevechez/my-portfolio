@@ -15,6 +15,7 @@ const LinkNav = styled(Link)`
     color: #7fa1e8;
   }
   @media (max-width: 700px) {
+    border: 1px solid red;
     margin-right: 14px;
     :last-of-type{
       display: flex;

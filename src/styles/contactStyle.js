@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const ContactWrapper = styled.div`
-  margin: 10% auto;
+  margin: 7% auto;
   @media (max-width: 700px) {
     margin: 15% auto;
   }

@@ -5,11 +5,12 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    `gatsby-plugin-fontawesome-css`,
     "gatsby-plugin-styled-components",
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`Signika`, `source sans pro\:300,400,600`],
+        fonts: [`Roboto`, `source sans pro\:300,400,600`],
       },
     },
     {
