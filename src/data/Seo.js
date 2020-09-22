@@ -1,5 +1,3 @@
-import favicon from '../assets/images/rash-favicon.png'
-
 export const aboutWebsite = {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -11,19 +9,16 @@ export const aboutWebsite = {
     }
 }
 export const siteMeta = {
-    title: 'Rashmi AP | Frontend Developer',
-    favicon: favicon,
-    author: "Rashmi AP",
-    description: "Hello there, welcome to my portfolio. I am a front end developer, visual artist and an animal lover based out of Bangalore.",
-    copyright: "Rashmi AP, Copyright (c) 2018",
+    title: 'Steve Maciaszek | Software Developer',
+    author: "Steve Maciaszek",
+    description: "Steve Maciaszek portfolio and CV.",
+    copyright: "Steve Maciaszek, Copyright (c) 2020",
     keywords: [
-        "Rashmi AP",
-        "ZoojooBE",
+        "Steve Maciaszek",
         "frontend engineer",
         "frontend developer",
         "fullstack engineer",
         "web engineer",
-        "bangalore",
         "software engineer",
         "engineer",
         "ui engineer"
