@@ -1,9 +1,9 @@
 export default [
   {
     id: 9,
-    title: "first job",
+    title: "Grid Dynamics.  Onsite at Silicon Valley Bank",
     icon: "",
-    description: "content here",
+    description: "React developer working new functionality for leading banking application.  Tech utilized in building out this robust application: React, Typescript, Hooks, Loopback, Git, Jest/Enzyme",
     githubPath: null,
     demoPath: null,
     year: "",

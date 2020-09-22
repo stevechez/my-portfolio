@@ -12,10 +12,12 @@ const IndexPage = () => {
   return (
     <Layout>
       <UserWrapper>
-        <UserTitle>steve chez</UserTitle>
+        <UserTitle>Steve Maciaszek</UserTitle>
         <UserDescription>
           <div>
-            <p>content for my site</p>
+            <p>Well-rounded IT professional with experience as both a team and individual contributor on web application development projects. </p>
+            <p>Excellent problem solver using technology to address business challenges. Easy to work with, team player, and poses solid communication skills.</p>
+            <p>React // Javascript // Node // Wordpress // React Native</p>
             <DownloadButton href="" download title="Resume">
               Download Resume
             </DownloadButton>

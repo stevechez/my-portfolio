@@ -22,9 +22,9 @@ const LinkNav = styled(Link)`
   }
 `
 const NavLink = ({ info }) => (
-    <LinkNav to={info.path} exact={"true"} activeClassName="active">
-        {info.label}
-    </LinkNav>
+  <LinkNav to={info.path} exact={"true"} activeClassName="active">
+    {info.label}
+  </LinkNav>
 );
 
 export default NavLink;

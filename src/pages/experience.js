@@ -33,11 +33,14 @@ const Experience = () => (
                   <div>
                     <h3>{item.designation}</h3>
                     <a href={item.companyLink} target="_blank"></a>
+                    <span>{item.name}</span>
                     <p>{item.dated}</p>
                   </div>
+
                   <LogoLink href="">
-                    <img src="" alt="company" width="175px" />
+                    <img src={item.logo} alt="company" width="125px" />
                   </LogoLink>
+
                 </StepperHead>
                 <StepperDesc
                   dangerouslySetInnerHTML={{
@@ -57,23 +60,22 @@ const Experience = () => (
             <div key={item.id}>
               <p>
                 Graduated with a {item.degree}'s Degree majored in {item.major}{" "}
-                from {item.name} with a CGPA of {item.cgpa} <br />
-                {item.dated}
+                from {item.name}.
               </p>
+            </div>
+          ))}
+        </EdContent>
+        <h1>Technologies</h1>
+        <EdContent>
+          {lang.map((item) => (
+            <div key={item.id}>
+              <p>{item.name}</p>
             </div>
           ))}
         </EdContent>
         <h1>Interests</h1>
         <EdContent>
           {hobby.map((item) => (
-            <div key={item.id}>
-              <p>{item.name}</p>
-            </div>
-          ))}
-        </EdContent>
-        <h1>Language</h1>
-        <EdContent>
-          {lang.map((item) => (
             <div key={item.id}>
               <p>{item.name}</p>
             </div>

@@ -12,11 +12,11 @@ import Header from "./Header/header";
 import Footer from "./Footer/footer";
 
 const Wrapper = styled.div`
-  background-color: blue;
+  background-color: #32348f;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 300vh;
   height: auto;
   background-position: bottom;
   padding: 5% 8%;

@@ -47,15 +47,15 @@ const SocialContact = ({ info }) => (
   <ContactWrapper>
     {info.linkTo ? (
       <ContactLink href={info.path}>
-        <img src="" alt="contact link" />
+        <img src={info.icon} alt="contact link" />
         <p>{info.title}</p>
       </ContactLink>
     ) : (
-      <ContactBox>
-        <img src="" alt="contact link" />
-        <p>{info.title}</p>
-      </ContactBox>
-    )}
+        <ContactBox>
+          <img src={info.icon} alt="contact link" />
+          <p>{info.title}</p>
+        </ContactBox>
+      )}
   </ContactWrapper>
 );
 

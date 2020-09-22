@@ -1,10 +1,8 @@
 export default [
   {
     id: 1,
-    name: "BA, Info Comm Studies",
-    major: "Instructional Tech",
+    name: "CSU, Chico",
+    major: "Instructional Technology",
     degree: "Bachelor",
-    dated: "",
-    cgpa: "",
   },
 ];
