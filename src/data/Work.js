@@ -10,7 +10,6 @@ import dialog from "../assets/images/dialog-logo.png";
 import developer from "../assets/images/developer-logo.png";
 export default [
   {
-<<<<<<< HEAD
     id: 1,
     name: "Grid Dynamics.  Onsite at Silicon Valley Bank",
     designation: "UI Developer",
@@ -45,15 +44,6 @@ export default [
     logo: imvu,
     companyLink: "http://www.imvu.com",
     description: "As the Lead UI Developer, was tasked to prototype new features for all portions of the new site redesign. Worked seamlessly with the UI Design team to develop prototypes, new features, and functionality to build pieces of the new application.  Developed user-interface elements in HTML5, CSS3, and JavaScript.",
-=======
-    id: 5,
-    name: "Silicon Valley Bank",
-    designation: "UI Developer",
-    dated: "01/20 - present",
-    logo: "logo",
-    companyLink: "",
-    description: "React, Hooks, Typescript, Jest/Enzyme, Loopback, Cordova",
->>>>>>> 12630578dfec331da9fe2a5cd309fe0a243bfa0a
   },
   {
     id: 5,
