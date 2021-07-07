@@ -84,7 +84,7 @@ export default [
   {
     id: 9,
     name: "Dialog Corporation",
-    designation: "Web Developer/Founder",
+    designation: "Web Developer",
     dated: "2000– 12/2002",
     logo: dialog,
     companyLink: "",
