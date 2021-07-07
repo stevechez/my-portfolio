@@ -1,3 +1,3 @@
-#My Portfolio
+# My Portfolio
 
-###just a short synopsis of my work.
+##### just a short synopsis of my work.
