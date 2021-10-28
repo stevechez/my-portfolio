@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Portfolio and CV",
-    siteUrl: "http://localhost:8000",
+    siteUrl: "https://my-portfolio-euzccrj2l-stevechez.vercel.app",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
